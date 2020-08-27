@@ -1901,7 +1901,8 @@ footer {
 
 .image.featured {
   display: block;
-  width: 50%;
+  width: auto;
+  height: auto;
   margin: 0 0 4em 0;
 }
 
@@ -1917,7 +1918,8 @@ footer {
 
 .image.centered img {
   margin: 0 auto;
-  width: auto;
+  width: 50%;
+  height: 50%;
 }
 
 /* List */
